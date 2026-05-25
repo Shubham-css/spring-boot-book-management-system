@@ -202,7 +202,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Shubham**
+**Shubham Fulwani**
 
 Developed as a Spring Boot backend practice project for learning REST APIs and layered application architecture.
 
